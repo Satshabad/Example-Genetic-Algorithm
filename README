@@ -1,1 +1,8 @@
-Implementation of an example genetic algorithm from the book 'Artificial Intelligence' by P.H. Winston (1992). There is a known divide by zero error in the Standard Fitness Method when the quality map can produce 0 quality. Just run it again until it works.
+Implementation of an example genetic algorithm from the book 'Artificial Intelligence' by P.H. Winston (1992). 
+There is a known divide by zero error in the Standard Fitness Method when the quality map can produce 0 quality. 
+Just run it again until it works.
+
+Currently uses mutation, crossover, and Standard Fitness Method.
+
+Output uses python module termcolor to show generations. It is compatible with only some terminals.
+See http://pypi.python.org/pypi/termcolor
