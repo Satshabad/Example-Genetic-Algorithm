@@ -1,0 +1,1 @@
+Implementation of an example genetic algorithm from the book 'Artificial Intelligence' by P.H. Winston (1992). There is a known divide by zero error in the Standard Fitness Method when the quality map can produce 0 quality. Just run it again until it works.
